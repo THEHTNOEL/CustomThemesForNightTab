@@ -2,6 +2,7 @@
 A theme for nighttab
 
 # Preview
+Coming soon... 👀
 
 # NightTab
 You will need to get an extension to use this project
