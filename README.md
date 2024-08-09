@@ -3,6 +3,7 @@ A theme for nighttab
 
 # Preview
 ## Coming soon... 👀
+https://github.com/user-attachments/assets/a41246cf-2c95-41e1-80c2-9ccf38303adf
 
 # NightTab
 You will need to get an extension to use this project
