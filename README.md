@@ -1,4 +1,4 @@
-# Windows11ForNightTab
+# Windows11ForNightTab (+1)
 A theme for nighttab
 
 # NightTab
