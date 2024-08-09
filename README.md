@@ -1,4 +1,4 @@
-# CustomThemesForNightTab (+1)
+# CustomThemesForNightTab
 A theme for nighttab
 
 # NightTab
